@@ -22,8 +22,8 @@
 #include "EarthIcon2D.h"
 
 // ======== CAU HINH ========
-const char* WIFI_SSID = "Viettel";            // cung WiFi voi relay
-const char* WIFI_PASS = "0335814096";
+const char* WIFI_SSID = "----------";            // cung WiFi voi relay
+const char* WIFI_PASS = "----------";
 const char* RELAY_HOST = "esp-relay";         // http://esp-relay.local/
 const char* RELAY_FALLBACK_IP = "";           // vd "192.168.1.50" neu mDNS khong tim ra (de "" de tat)
 const char* CYD_HOSTNAME = "cyd-relay";
